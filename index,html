@@ -102,7 +102,7 @@
 				<div class="row">
 					<div class="col-md-12 text-center">
 						<div class="header-text">
-							<h2>hi <span>,</span> i am <br> hari <br> krishna <span>.</span>   </h2>
+							<h2>hi <span>,</span> i am <br> hari krishna <span>.</span>   </h2>
 							<p>DevOps and AWS Cloud Engineer</p>
 							<a href="assets/download/browney.txt" download>download resume</a>
 						</div><!--/.header-text-->
@@ -113,71 +113,75 @@
 		</section><!--/.welcome-hero-->
 		<!--welcome-hero end -->
 
-		<!--about start -->
-		<section id="about" class="about">
-			<div class="section-heading text-center">
-				<h2>about me</h2>
-			</div>
-			<div class="container">
-				<div class="about-content">
-					<div class="row">
-						<div class="col-sm-6">
-							<div class="single-about-txt">
-								<h3>
-									I am a Professional DevOps Engineer with expertise in implementing CI/CD pipelines, managing cloud infrastructure, and optimizing system performance. My focus is on enhancing operational efficiency and fostering collaboration between development and operations teams. I thrive on solving complex problems and driving automation to streamline processes.
-								</h3>
-								<p>
-									As a DevOps Engineer, I specialize in automating deployment processes using tools like Jenkins, ensuring efficient CI/CD pipelines. I leverage Docker to containerize applications, enabling consistent environments across development and production. With Kubernetes, I orchestrate containerized applications, managing scalability and fault tolerance seamlessly. Utilizing Terraform, I define and provision infrastructure as code, facilitating quick and reliable infrastructure changes. My role emphasizes collaboration between development and operations, optimizing workflows and enhancing system reliability.
-								</p>
-								<div class="row">
-									<div class="col-sm-4">
-										<div class="single-about-add-info">
-											<h3>phone</h3>
-											<p>8106656308</p>
-										</div>
-									</div>
-									<div class="col-sm-4">
-										<div class="single-about-add-info">
-											<h3>email</h3>
-											<p>siramharikrishna@gmail.com</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="col-sm-offset-1 col-sm-5">
-							<div class="single-about-img">
-								<img src="assets/images/about/profile_image.jpg" alt="profile_image">
-								<div class="about-list-icon">
-									<ul>
-										<li>
-											<a href="#">
-												<i  class="fa fa-facebook" aria-hidden="true"></i>
-											</a>
-										</li><!-- / li -->
-										<li>
-											<a href="#">
-												<i  class="fa fa-linkedin" aria-hidden="true"></i>
-											</a>
-										</li><!-- / li -->
-										<li>
-											<a href="#">
-												<i  class="fa fa-instagram" aria-hidden="true"></i>
-											</a>
-										</li><!-- / li -->
-										
-										
-									</ul><!-- / ul -->
-								</div><!-- /.about-list-icon -->
+	<!--about start -->
+<section id="about" class="about">
+    <div class="section-heading text-center">
+        <h2>about me</h2>
+    </div>
+    <div class="container">
+        <div class="about-content">
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="single-about-txt">
+                        <h3>
+                            I am a Professional DevOps Engineer with expertise in implementing CI/CD pipelines, managing cloud infrastructure, and optimizing system performance. My focus is on enhancing operational efficiency and fostering collaboration between development and operations teams. I thrive on solving complex problems and driving automation to streamline processes.
+                        </h3>
+                        <p>
+                            As a DevOps Engineer, I specialize in automating deployment processes using tools like Jenkins, ensuring efficient CI/CD pipelines. I leverage Docker to containerize applications, enabling consistent environments across development and production. With Kubernetes, I orchestrate containerized applications, managing scalability and fault tolerance seamlessly. Utilizing Terraform, I define and provision infrastructure as code, facilitating quick and reliable infrastructure changes. My role emphasizes collaboration between development and operations, optimizing workflows and enhancing system reliability.
+                        </p>
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <div class="single-about-add-info">
+                                    <h3>phone</h3>
+                                    <p>+91 8106656308</p>
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <div class="single-about-add-info">
+                                    <h3>email</h3>
+                                    <p>siramharikrishna@gmail.com</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-offset-1 col-sm-5">
+                    <div class="single-about-img">
+                        <img src="assets/images/about/profile_image.jpg" alt="profile_image">
+                        <div class="about-list-icon">
+                            <ul>
+                                <li>
+                                    <a href="https://www.linkedin.com/in/harikrishna-siram/" target="_blank">
+                                        <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/HarikrishnaSiram" target="_blank">
+                                        <i class="fa fa-github" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/hari_krishna_s/" target="_blank">
+                                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.facebook.com/siram.harikrishna" target="_blank">
+                                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div><!-- /.about-list-icon -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section><!--/.about-->
+<!--about end -->
 
-							</div>
 
-						</div>
-					</div>
-				</div>
-			</div>
-		</section><!--/.about-->
-		<!--about end -->
+
 		
 		<!--education start -->
 		<section id="education" class="education">
@@ -631,9 +635,10 @@
 								</div><!--/.contact-adress-->
 								<div class="hm-foot-icon">
 									<ul>
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li><!--/li-->
-										<li><a href="#"><i class="fa fa-linkedin"></i></a></li><!--/li-->
-										<li><a href="#"><i class="fa fa-instagram"></i></a></li><!--/li-->
+										<li><a href="https://www.linkedin.com/in/harikrishna-siram/" target="_blank"><i class="fa fa-linkedin"></i></a></li><!--/li-->
+										<li><a href="https://github.com/HarikrishnaSiram" target="_blank"><i class="fa fa-github"></i></a></li><!--/li-->
+										<li><a href="https://www.instagram.com/hari_krishna_s/" target="_blank"><i class="fa fa-instagram"></i></a></li><!--/li-->
+										<li><a href="https://www.facebook.com/siram.harikrishna" target="_blank"><i class="fa fa-facebook"></i></a></li><!--/li-->
 									</ul><!--/ul-->
 								</div><!--/.hm-foot-icon-->
 							</div><!--/.single-contact-box-->
