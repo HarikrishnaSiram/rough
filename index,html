@@ -102,15 +102,14 @@
 				<div class="row">
 					<div class="col-md-12 text-center">
 						<div class="header-text">
-							<h2>hi <span>,</span> i am <br> hari krishna <span>.</span>   </h2>
+							<h2>Hi <span>,</span> I am <br> Hari Krishna <span>.</span></h2>
 							<p>DevOps and AWS Cloud Engineer</p>
-							<a href="assets/download/browney.txt" download>download resume</a>
+							<a href="assets/download/Harikrishna_DevOps.pdf" target="_blank">View Resume</a>
 						</div><!--/.header-text-->
 					</div><!--/.col-->
 				</div><!-- /.row-->
 			</div><!-- /.container-->
-
-		</section><!--/.welcome-hero-->
+		</section><!--/.welcome-hero-->		
 		<!--welcome-hero end -->
 
 	<!--about start -->
